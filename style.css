@@ -1,0 +1,25 @@
+body{text-align: center;}
+header{
+	border: 3px solid #000000;
+	background-image: url("img/tupac.png");
+	background-position: center top;
+	background-size: 200px 200px;
+}
+	nav ul li{
+		list-style: none 
+	}
+	main h2{
+		font-style: italic;
+	}
+	#tupac-poem{
+		width: 150px;
+		height:200px;
+	}
+	#shel-poem {
+		width: 130px;
+		height: 180px;
+	}
+	#rosario-poem {
+		width: 10%;
+		height: auto;
+	}
